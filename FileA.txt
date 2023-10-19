@@ -1,2 +1,3 @@
 hello world!
 add line 2 in file A
+change 3
