@@ -7,3 +7,9 @@ function hotfix(int b)
 {
    return false;
 }
+
+void functionIssue53(int a)
+{
+  if (a>1) return true;
+  return false;
+}
